@@ -39,7 +39,7 @@ Mohammed Althaf K N
 ### Appointment Booking
 ![Booking](screenshots/booking.png)
 
-### Admin Dashboard
+### Admin Pannel
 ![Admin](screenshots/admin_dashboard.png)
 
 ## System Architecture
