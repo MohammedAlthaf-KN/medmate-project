@@ -130,6 +130,8 @@ This application is developed for educational purposes only. It does not provide
 ## 👨‍💻 Author
 
 **Mohammed Althaf K N**
+BCA Graduate | Aspiring Data Scientist
+
 
 ---
 
